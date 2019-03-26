@@ -1,4 +1,3 @@
-# abalones
 <!DOCTYPE html>
 <html>
 <style>
@@ -77,7 +76,7 @@ font-size:20px;}
 <br>
 <p id="hi" align="right">Haliotis rufescens</p>
 <p id="ih" align="right">Mollusca</p>
-<img id=s" src="" width="400px">
+<img id=s" src="http://hdoa.hawaii.gov/wp-content/uploads/2014/02/KonaAbaloneplate.jpg" width="400px">
 <center id="o">Uses of Abalone</center>
 <ul id="oss">
 <li>food</li>
