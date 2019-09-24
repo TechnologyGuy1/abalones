@@ -76,7 +76,7 @@ font-size:20px;}
 <br>
 <p id="hi" align="right">Haliotis rufescens</p>
 <p id="ih" align="right">Mollusca</p>
-<img id=s" src="http://www.ejinsight.com/wp-content/uploads/2017/04/1536319_c5273fc8a2b50f6a37c14eea4ebeb438-692x360.jpg" width="400px">
+<img id="s" src="http://www.ejinsight.com/wp-content/uploads/2017/04/1536319_c5273fc8a2b50f6a37c14eea4ebeb438-692x360.jpg" width="400px">
 <center id="o">Uses of Abalone</center>
 <ul id="oss">
 <li>food</li>
